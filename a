@@ -1,6 +1,7 @@
 Likhan()
 {
-	syso("banik");
+	syso("banik");	
+	syso("likhan");
 }
 
 Banik()
