@@ -2,3 +2,8 @@ Likhan()
 {
 	syso("banik");
 }
+
+Banik()
+{
+	syso("likhan");
+}
