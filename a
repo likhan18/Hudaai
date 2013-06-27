@@ -1,3 +1,9 @@
+Lik()
+{
+	syso("banik");	
+	syso("likhan");
+}
+
 Likhan()
 {
 	syso("banik");	
